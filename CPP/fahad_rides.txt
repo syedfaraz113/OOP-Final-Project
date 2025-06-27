@@ -1,0 +1,5 @@
+Ride A.C Booked!
+Pickup: F-11
+Drop-off: NUST
+Estimated Fare: 505/-
+--------------------------

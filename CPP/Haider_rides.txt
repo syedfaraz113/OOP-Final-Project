@@ -1,0 +1,5 @@
+Bike Booked!
+Pickup: NUST
+Drop-off: Saddar
+Estimated Fare: 120/-
+--------------------------

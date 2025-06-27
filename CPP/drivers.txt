@@ -1,0 +1,10 @@
+
+Maid||32||Male||Alto||BBD-554||12
+Majid||20||Male||Corolla||FD-12||321
+Salman||20||Male||City||D-12||21
+Rock||20||Male||Civic||BA-52||321
+DJ||20||Male||Prius||DX-27||321
+
+w||12||12||1||1||1
+Jafi||33||Male||Honda||IDA-345||123
+haji||42||Male||bike||R-324||12

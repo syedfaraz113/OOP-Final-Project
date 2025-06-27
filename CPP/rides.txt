@@ -1,0 +1,179 @@
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Blue Area
+Estimated Fare: 280/-
+--------------------------
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 300/-
+--------------------------
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Blue Area
+Estimated Fare: 300/-
+--------------------------
+Ride Mini Booked!
+Pickup: G-10
+Drop-off: F-11
+Estimated Fare: 180/-
+--------------------------
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: F-11
+Estimated Fare: 270/-
+--------------------------
+Ride Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 259/-
+--------------------------
+Bike Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 100/-
+--------------------------
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Blue Area
+Estimated Fare: 290/-
+--------------------------
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 300/-
+--------------------------
+Bike Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 100/-
+--------------------------
+User: faraz
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 300/-
+--------------------------
+Driver: Majid
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 278/-
+--------------------------
+User: faraz
+Bike Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 100/-
+--------------------------
+Driver: Jafi
+Pickup: Saddar
+Drop-off: F-11
+Estimated Fare: 271/-
+--------------------------
+User: faraz
+Bike Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 100/-
+--------------------------
+User: faraz
+Bike Booked!
+Pickup: G-10
+Drop-off: Blue Area
+Estimated Fare: 100/-
+--------------------------
+User: faraz
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Blue Area
+Estimated Fare: 272/-
+--------------------------
+User: faraz
+Ride Booked!
+Pickup: F-11
+Drop-off: I-8
+Estimated Fare: 250/-
+--------------------------
+User: faraz
+Ride Mini Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 200/-
+--------------------------
+User: faraz
+Ride A.C Booked!
+Pickup: Blue Area
+Drop-off: F-11
+Estimated Fare: 270/-
+--------------------------
+User: faraz
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Blue Area
+Estimated Fare: 300/-
+--------------------------
+User: faraz
+Ride Booked!
+Pickup: G-10
+Drop-off: Blue Area
+Estimated Fare: 350/-
+--------------------------
+User: faraz
+Ride A.C Booked!
+Pickup: F-11
+Drop-off: I-8
+Estimated Fare: 359/-
+--------------------------
+Driver: Jafi
+Pickup: I-8
+Drop-off: G-10
+Estimated Fare: 271/-
+--------------------------
+User: fahad
+Ride A.C Booked!
+Pickup: F-11
+Drop-off: NUST
+Estimated Fare: 505/-
+--------------------------
+User: faraz
+Bike Booked!
+Pickup: G-10
+Drop-off: FAST
+Estimated Fare: 110/-
+--------------------------
+User: faraz
+Ride Mini Booked!
+Pickup: F-9
+Drop-off: COMSATS
+Estimated Fare: 230/-
+--------------------------
+User: faraz
+Bike Booked!
+Pickup: G-10
+Drop-off: Air University
+Estimated Fare: 110/-
+--------------------------
+Driver: Majid
+Pickup: I-8
+Drop-off: G-10
+Estimated Fare: 271/-
+--------------------------
+User: faraz
+Courier Booked!
+Pickup: Blue Area
+Drop-off: Saddar
+Details: KEY
+Estimated Fare: 120/-
+--------------------------
+User: Haider
+Bike Booked!
+Pickup: NUST
+Drop-off: Saddar
+Estimated Fare: 120/-
+--------------------------
+User: faraz
+Ride Booked!
+Pickup: F-11
+Drop-off: Saddar
+Estimated Fare: 300/-
+--------------------------
