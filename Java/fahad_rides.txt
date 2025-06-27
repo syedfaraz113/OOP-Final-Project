@@ -1,0 +1,10 @@
+Ride A.C Booked!
+Pickup: F-11
+Drop-off: NUST
+Estimated Fare: 505/-
+--------------------------
+Ride Mini Booked!
+Pickup: F-9
+Drop-off: COMSATS
+Estimated Fare: 230.0/-
+--------------------------

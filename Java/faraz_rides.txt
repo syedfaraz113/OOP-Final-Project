@@ -1,0 +1,80 @@
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 300/-
+--------------------------
+Bike Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 100/-
+--------------------------
+Bike Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 100/-
+--------------------------
+Bike Booked!
+Pickup: G-10
+Drop-off: Blue Area
+Estimated Fare: 100/-
+--------------------------
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Blue Area
+Estimated Fare: 272/-
+--------------------------
+Ride Booked!
+Pickup: F-11
+Drop-off: I-8
+Estimated Fare: 250/-
+--------------------------
+Ride Mini Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 200/-
+--------------------------
+Ride A.C Booked!
+Pickup: Blue Area
+Drop-off: F-11
+Estimated Fare: 270/-
+--------------------------
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Blue Area
+Estimated Fare: 300/-
+--------------------------
+Ride Booked!
+Pickup: G-10
+Drop-off: Blue Area
+Estimated Fare: 350/-
+--------------------------
+Ride A.C Booked!
+Pickup: F-11
+Drop-off: I-8
+Estimated Fare: 359/-
+--------------------------
+Bike Booked!
+Pickup: G-10
+Drop-off: FAST
+Estimated Fare: 110/-
+--------------------------
+Ride Mini Booked!
+Pickup: F-9
+Drop-off: COMSATS
+Estimated Fare: 230/-
+--------------------------
+Bike Booked!
+Pickup: G-10
+Drop-off: Air University
+Estimated Fare: 110/-
+--------------------------
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Saddar
+Estimated Fare: 370.0/-
+--------------------------
+Ride A.C Booked!
+Pickup: F-11
+Drop-off: I-8
+Estimated Fare: 395.0/-
+--------------------------

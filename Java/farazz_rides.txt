@@ -1,0 +1,5 @@
+Ride A.C Booked!
+Pickup: G-10
+Drop-off: Blue Area
+Estimated Fare: 350.0/-
+--------------------------
